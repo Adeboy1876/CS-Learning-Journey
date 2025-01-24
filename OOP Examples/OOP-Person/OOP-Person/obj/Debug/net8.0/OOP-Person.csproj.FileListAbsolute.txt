@@ -1,0 +1,28 @@
+C:\Users\oyagb\Desktop\Bootcamp\OOP-Person\OOP-Person\bin\Debug\net8.0\OOP-Person.exe
+C:\Users\oyagb\Desktop\Bootcamp\OOP-Person\OOP-Person\bin\Debug\net8.0\OOP-Person.deps.json
+C:\Users\oyagb\Desktop\Bootcamp\OOP-Person\OOP-Person\bin\Debug\net8.0\OOP-Person.runtimeconfig.json
+C:\Users\oyagb\Desktop\Bootcamp\OOP-Person\OOP-Person\bin\Debug\net8.0\OOP-Person.dll
+C:\Users\oyagb\Desktop\Bootcamp\OOP-Person\OOP-Person\bin\Debug\net8.0\OOP-Person.pdb
+C:\Users\oyagb\Desktop\Bootcamp\OOP-Person\OOP-Person\obj\Debug\net8.0\OOP-Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oyagb\Desktop\Bootcamp\OOP-Person\OOP-Person\obj\Debug\net8.0\OOP-Person.AssemblyInfoInputs.cache
+C:\Users\oyagb\Desktop\Bootcamp\OOP-Person\OOP-Person\obj\Debug\net8.0\OOP-Person.AssemblyInfo.cs
+C:\Users\oyagb\Desktop\Bootcamp\OOP-Person\OOP-Person\obj\Debug\net8.0\OOP-Person.csproj.CoreCompileInputs.cache
+C:\Users\oyagb\Desktop\Bootcamp\OOP-Person\OOP-Person\obj\Debug\net8.0\OOP-Person.dll
+C:\Users\oyagb\Desktop\Bootcamp\OOP-Person\OOP-Person\obj\Debug\net8.0\refint\OOP-Person.dll
+C:\Users\oyagb\Desktop\Bootcamp\OOP-Person\OOP-Person\obj\Debug\net8.0\OOP-Person.pdb
+C:\Users\oyagb\Desktop\Bootcamp\OOP-Person\OOP-Person\obj\Debug\net8.0\OOP-Person.genruntimeconfig.cache
+C:\Users\oyagb\Desktop\Bootcamp\OOP-Person\OOP-Person\obj\Debug\net8.0\ref\OOP-Person.dll
+E:\OOP Examples\OOP-Person\OOP-Person\bin\Debug\net8.0\OOP-Person.exe
+E:\OOP Examples\OOP-Person\OOP-Person\bin\Debug\net8.0\OOP-Person.deps.json
+E:\OOP Examples\OOP-Person\OOP-Person\bin\Debug\net8.0\OOP-Person.runtimeconfig.json
+E:\OOP Examples\OOP-Person\OOP-Person\bin\Debug\net8.0\OOP-Person.dll
+E:\OOP Examples\OOP-Person\OOP-Person\bin\Debug\net8.0\OOP-Person.pdb
+E:\OOP Examples\OOP-Person\OOP-Person\obj\Debug\net8.0\OOP-Person.GeneratedMSBuildEditorConfig.editorconfig
+E:\OOP Examples\OOP-Person\OOP-Person\obj\Debug\net8.0\OOP-Person.AssemblyInfoInputs.cache
+E:\OOP Examples\OOP-Person\OOP-Person\obj\Debug\net8.0\OOP-Person.AssemblyInfo.cs
+E:\OOP Examples\OOP-Person\OOP-Person\obj\Debug\net8.0\OOP-Person.csproj.CoreCompileInputs.cache
+E:\OOP Examples\OOP-Person\OOP-Person\obj\Debug\net8.0\OOP-Person.dll
+E:\OOP Examples\OOP-Person\OOP-Person\obj\Debug\net8.0\refint\OOP-Person.dll
+E:\OOP Examples\OOP-Person\OOP-Person\obj\Debug\net8.0\OOP-Person.pdb
+E:\OOP Examples\OOP-Person\OOP-Person\obj\Debug\net8.0\OOP-Person.genruntimeconfig.cache
+E:\OOP Examples\OOP-Person\OOP-Person\obj\Debug\net8.0\ref\OOP-Person.dll

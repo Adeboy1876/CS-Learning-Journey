@@ -1,0 +1,28 @@
+C:\Users\oyagb\Desktop\Bootcamp\OOP - Car Example (Composition)\OOP - Car Example (Composition)\bin\Debug\net8.0\OOP - Car Example (Composition).exe
+C:\Users\oyagb\Desktop\Bootcamp\OOP - Car Example (Composition)\OOP - Car Example (Composition)\bin\Debug\net8.0\OOP - Car Example (Composition).deps.json
+C:\Users\oyagb\Desktop\Bootcamp\OOP - Car Example (Composition)\OOP - Car Example (Composition)\bin\Debug\net8.0\OOP - Car Example (Composition).runtimeconfig.json
+C:\Users\oyagb\Desktop\Bootcamp\OOP - Car Example (Composition)\OOP - Car Example (Composition)\bin\Debug\net8.0\OOP - Car Example (Composition).dll
+C:\Users\oyagb\Desktop\Bootcamp\OOP - Car Example (Composition)\OOP - Car Example (Composition)\bin\Debug\net8.0\OOP - Car Example (Composition).pdb
+C:\Users\oyagb\Desktop\Bootcamp\OOP - Car Example (Composition)\OOP - Car Example (Composition)\obj\Debug\net8.0\OOP - Car Example (Composition).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oyagb\Desktop\Bootcamp\OOP - Car Example (Composition)\OOP - Car Example (Composition)\obj\Debug\net8.0\OOP - Car Example (Composition).AssemblyInfoInputs.cache
+C:\Users\oyagb\Desktop\Bootcamp\OOP - Car Example (Composition)\OOP - Car Example (Composition)\obj\Debug\net8.0\OOP - Car Example (Composition).AssemblyInfo.cs
+C:\Users\oyagb\Desktop\Bootcamp\OOP - Car Example (Composition)\OOP - Car Example (Composition)\obj\Debug\net8.0\OOP - Car Example (Composition).csproj.CoreCompileInputs.cache
+C:\Users\oyagb\Desktop\Bootcamp\OOP - Car Example (Composition)\OOP - Car Example (Composition)\obj\Debug\net8.0\OOP - Car Example (Composition).dll
+C:\Users\oyagb\Desktop\Bootcamp\OOP - Car Example (Composition)\OOP - Car Example (Composition)\obj\Debug\net8.0\refint\OOP - Car Example (Composition).dll
+C:\Users\oyagb\Desktop\Bootcamp\OOP - Car Example (Composition)\OOP - Car Example (Composition)\obj\Debug\net8.0\OOP - Car Example (Composition).pdb
+C:\Users\oyagb\Desktop\Bootcamp\OOP - Car Example (Composition)\OOP - Car Example (Composition)\obj\Debug\net8.0\OOP - Car Example (Composition).genruntimeconfig.cache
+C:\Users\oyagb\Desktop\Bootcamp\OOP - Car Example (Composition)\OOP - Car Example (Composition)\obj\Debug\net8.0\ref\OOP - Car Example (Composition).dll
+E:\OOP Examples\OOP - Car Example (Composition)\OOP - Car Example (Composition)\bin\Debug\net8.0\OOP - Car Example (Composition).exe
+E:\OOP Examples\OOP - Car Example (Composition)\OOP - Car Example (Composition)\bin\Debug\net8.0\OOP - Car Example (Composition).deps.json
+E:\OOP Examples\OOP - Car Example (Composition)\OOP - Car Example (Composition)\bin\Debug\net8.0\OOP - Car Example (Composition).runtimeconfig.json
+E:\OOP Examples\OOP - Car Example (Composition)\OOP - Car Example (Composition)\bin\Debug\net8.0\OOP - Car Example (Composition).dll
+E:\OOP Examples\OOP - Car Example (Composition)\OOP - Car Example (Composition)\bin\Debug\net8.0\OOP - Car Example (Composition).pdb
+E:\OOP Examples\OOP - Car Example (Composition)\OOP - Car Example (Composition)\obj\Debug\net8.0\OOP - Car Example (Composition).GeneratedMSBuildEditorConfig.editorconfig
+E:\OOP Examples\OOP - Car Example (Composition)\OOP - Car Example (Composition)\obj\Debug\net8.0\OOP - Car Example (Composition).AssemblyInfoInputs.cache
+E:\OOP Examples\OOP - Car Example (Composition)\OOP - Car Example (Composition)\obj\Debug\net8.0\OOP - Car Example (Composition).AssemblyInfo.cs
+E:\OOP Examples\OOP - Car Example (Composition)\OOP - Car Example (Composition)\obj\Debug\net8.0\OOP - Car Example (Composition).csproj.CoreCompileInputs.cache
+E:\OOP Examples\OOP - Car Example (Composition)\OOP - Car Example (Composition)\obj\Debug\net8.0\OOP - Car Example (Composition).dll
+E:\OOP Examples\OOP - Car Example (Composition)\OOP - Car Example (Composition)\obj\Debug\net8.0\refint\OOP - Car Example (Composition).dll
+E:\OOP Examples\OOP - Car Example (Composition)\OOP - Car Example (Composition)\obj\Debug\net8.0\OOP - Car Example (Composition).pdb
+E:\OOP Examples\OOP - Car Example (Composition)\OOP - Car Example (Composition)\obj\Debug\net8.0\OOP - Car Example (Composition).genruntimeconfig.cache
+E:\OOP Examples\OOP - Car Example (Composition)\OOP - Car Example (Composition)\obj\Debug\net8.0\ref\OOP - Car Example (Composition).dll

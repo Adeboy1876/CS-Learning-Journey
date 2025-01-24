@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "SqB5eS/28rA=",
+  "success": true,
+  "projectFilePath": "E:\\OOP Examples\\OOP - Car Example (Composition)\\OOP - Car Example (Composition)\\OOP - Car Example (Composition).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oyagb\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.101\\microsoft.net.sdk.compilers.toolset.9.0.101.nupkg.sha512",
+    "C:\\Users\\oyagb\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.11\\microsoft.windowsdesktop.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\oyagb\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.11\\microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\oyagb\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.11\\microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\oyagb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.11\\microsoft.netcore.app.host.win-x64.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,28 @@
+C:\Users\oyagb\Desktop\Bootcamp\OOP -Bank Acct\OOP -Bank Acct\bin\Debug\net8.0\OOP -Bank Acct.exe
+C:\Users\oyagb\Desktop\Bootcamp\OOP -Bank Acct\OOP -Bank Acct\bin\Debug\net8.0\OOP -Bank Acct.deps.json
+C:\Users\oyagb\Desktop\Bootcamp\OOP -Bank Acct\OOP -Bank Acct\bin\Debug\net8.0\OOP -Bank Acct.runtimeconfig.json
+C:\Users\oyagb\Desktop\Bootcamp\OOP -Bank Acct\OOP -Bank Acct\bin\Debug\net8.0\OOP -Bank Acct.dll
+C:\Users\oyagb\Desktop\Bootcamp\OOP -Bank Acct\OOP -Bank Acct\bin\Debug\net8.0\OOP -Bank Acct.pdb
+C:\Users\oyagb\Desktop\Bootcamp\OOP -Bank Acct\OOP -Bank Acct\obj\Debug\net8.0\OOP -Bank Acct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oyagb\Desktop\Bootcamp\OOP -Bank Acct\OOP -Bank Acct\obj\Debug\net8.0\OOP -Bank Acct.AssemblyInfoInputs.cache
+C:\Users\oyagb\Desktop\Bootcamp\OOP -Bank Acct\OOP -Bank Acct\obj\Debug\net8.0\OOP -Bank Acct.AssemblyInfo.cs
+C:\Users\oyagb\Desktop\Bootcamp\OOP -Bank Acct\OOP -Bank Acct\obj\Debug\net8.0\OOP -Bank Acct.csproj.CoreCompileInputs.cache
+C:\Users\oyagb\Desktop\Bootcamp\OOP -Bank Acct\OOP -Bank Acct\obj\Debug\net8.0\OOP -Bank Acct.dll
+C:\Users\oyagb\Desktop\Bootcamp\OOP -Bank Acct\OOP -Bank Acct\obj\Debug\net8.0\refint\OOP -Bank Acct.dll
+C:\Users\oyagb\Desktop\Bootcamp\OOP -Bank Acct\OOP -Bank Acct\obj\Debug\net8.0\OOP -Bank Acct.pdb
+C:\Users\oyagb\Desktop\Bootcamp\OOP -Bank Acct\OOP -Bank Acct\obj\Debug\net8.0\OOP -Bank Acct.genruntimeconfig.cache
+C:\Users\oyagb\Desktop\Bootcamp\OOP -Bank Acct\OOP -Bank Acct\obj\Debug\net8.0\ref\OOP -Bank Acct.dll
+E:\OOP Examples\OOP -Bank Acct\OOP -Bank Acct\bin\Debug\net8.0\OOP -Bank Acct.exe
+E:\OOP Examples\OOP -Bank Acct\OOP -Bank Acct\bin\Debug\net8.0\OOP -Bank Acct.deps.json
+E:\OOP Examples\OOP -Bank Acct\OOP -Bank Acct\bin\Debug\net8.0\OOP -Bank Acct.runtimeconfig.json
+E:\OOP Examples\OOP -Bank Acct\OOP -Bank Acct\bin\Debug\net8.0\OOP -Bank Acct.dll
+E:\OOP Examples\OOP -Bank Acct\OOP -Bank Acct\bin\Debug\net8.0\OOP -Bank Acct.pdb
+E:\OOP Examples\OOP -Bank Acct\OOP -Bank Acct\obj\Debug\net8.0\OOP -Bank Acct.GeneratedMSBuildEditorConfig.editorconfig
+E:\OOP Examples\OOP -Bank Acct\OOP -Bank Acct\obj\Debug\net8.0\OOP -Bank Acct.AssemblyInfoInputs.cache
+E:\OOP Examples\OOP -Bank Acct\OOP -Bank Acct\obj\Debug\net8.0\OOP -Bank Acct.AssemblyInfo.cs
+E:\OOP Examples\OOP -Bank Acct\OOP -Bank Acct\obj\Debug\net8.0\OOP -Bank Acct.csproj.CoreCompileInputs.cache
+E:\OOP Examples\OOP -Bank Acct\OOP -Bank Acct\obj\Debug\net8.0\OOP -Bank Acct.dll
+E:\OOP Examples\OOP -Bank Acct\OOP -Bank Acct\obj\Debug\net8.0\refint\OOP -Bank Acct.dll
+E:\OOP Examples\OOP -Bank Acct\OOP -Bank Acct\obj\Debug\net8.0\OOP -Bank Acct.pdb
+E:\OOP Examples\OOP -Bank Acct\OOP -Bank Acct\obj\Debug\net8.0\OOP -Bank Acct.genruntimeconfig.cache
+E:\OOP Examples\OOP -Bank Acct\OOP -Bank Acct\obj\Debug\net8.0\ref\OOP -Bank Acct.dll
