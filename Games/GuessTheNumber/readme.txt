@@ -1,0 +1,1 @@
+A simple game to guess a randomly generated number between 1 and 10 in 3 attempts
