@@ -1,0 +1,1 @@
+A Blazor project for adding and removing items in a list and displaying as a table

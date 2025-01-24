@@ -1,0 +1,78 @@
+﻿@page "/Items"
+@rendermode InteractiveServer
+
+@using System.Collections.Generic
+@using System.Reflection.Metadata
+
+<!--Basic Heading-->
+<h1>Item Manager</h1>
+
+<!--Simple Input and add button-->
+<div class="item-form">
+    <input @bind="newItem" placeholder="Enter a new item..." />
+    <button @onclick="AddItem">Add</button>
+</div>
+@if (items.Count == 0)
+{
+    <p>No items yet. Add some above!</p>
+}
+else
+{
+    <table class="item-table">
+        <thead>
+            <tr>
+                <th>Item</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in items)
+            {
+                <tr>
+                    <td>@item</td>
+                    <td>
+                        <button @onclick="()=> RemoveItem(item)">Remove</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<button class="toggle-button" @onclick="ToggleCSS">Toggle</button>
+
+
+@code {
+    private List<string> items = new();
+    private string? newItem;
+    private int count = 0;
+
+    private void AddItem()
+    {
+        if (!string.IsNullOrWhiteSpace(newItem))
+        {
+            items.Add(newItem.Trim());
+            newItem = string.Empty;
+        }
+    }
+
+    private void RemoveItem(string itemToRemove)
+    {
+        items.Remove(itemToRemove);
+    }
+
+    private bool isDefault = true;
+
+    private async Task ToggleCSS()
+    {
+        // Toggle the state between default and dark mode by setting bool to true of false
+        isDefault = !isDefault;
+
+        // Call the JS function to change the body's background class
+        string className = isDefault ? "default-mode" : "dark-mode";
+        await JSRuntime.InvokeVoidAsync("setBodyClass", className);
+    }
+
+    [Inject]
+    private IJSRuntime JSRuntime { get; set; }
+}   
