@@ -1,0 +1,140 @@
+﻿@page "/mypage"
+@rendermode InteractiveServer
+
+<head>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+
+<h3>MyPage</h3>
+<p>Hello World</p>
+
+
+
+<h2>Temperature Conversion</h2>
+<p style="font-weight:bold">Celcuis</p>
+<input type="number" @bind="celsius" @oninput="UpdateFromCelsius" />
+
+<br /><br />
+
+<p>Kelvin</p>
+<input type="number" @bind="kelvin" @oninput="UpdateFromKelvin" />
+
+<br /><br />
+
+<p>Farenheit</p>
+<input type="number" @bind="fahrenheit" @oninput="UpdateFromFahrenheit" />
+
+
+
+<body>
+    <script src="script.js"></script>
+    <header>
+        <h1>My Hobbies</h1>
+    </header>
+    <main>
+        <h2 id="intro-text">Hello, my name is Ade, and this is my page!</h2>
+
+        <button onclick="toggleDarkMode()">Toggle Dark Mode</button>
+
+        <p>
+            <!--Hobbies list-->
+            <ul id="hobbies-list">
+                <li>
+                    <div class="hobby-item">
+                        <img src="https://img.freepik.com/free-vector/focus-concept-illustration_114360-1307.jpg" alt="Photography">
+                        <span>Photography</span>
+                    </div>
+                </li>
+                <li>
+                    <div class="hobby-item">
+                        <img src="https://img.freepik.com/free-vector/telling-tale-concept-illustration_114360-7355.jpg">
+                        <span>Reading</span>
+                    </div>
+                </li>
+                <li>
+                    <div class="hobby-item">
+                        <img src="https://img.freepik.com/free-vector/cute-angry-bear-gaming-cartoon-vector-icon-illustration-animal-technology-icon-isolated-flat-vector_138676-12449.jpg" alt="Gaming">
+                        <span>Gaming</span>
+                    </div>
+                </li>
+                <li>
+                    <div class="hobby-item">
+                        <img src="https://img.freepik.com/free-vector/study-abroad-concept-illustration_114360-7493.jpg">
+                        <span>Travelling</span>
+                    </div>
+                </li>
+                <li>
+                    <div class="hobby-item">
+                        <img src="https://img.freepik.com/free-vector/aircraft-concept-illustration_114360-2434.jpg">
+                        <span>Plane Spotting</span>
+                    </div>
+                </li>
+            </ul>
+            <button onclick="addHobby()">Add Hobby</button>
+        </p>
+
+        <img id="sleeping-man" src="https://img.freepik.com/premium-photo/caucasian-bearded-man-eyemask-sleeping-bed_73661-945.jpg" alt="sample image" title="placeholder image">
+
+        <table border=1>
+            <tr>
+                <th>Activity</th>
+                <th>Time</th>
+                <th>Location</th>
+            </tr>
+            <tr>
+                <td>Work</td>
+                <td>09:00 AM</td>
+                <td>Office</td>
+            </tr>
+            <tr>
+                <td>Gym</td>
+                <td>06:00 PM</td>
+                <td>Fitness Centre</td>
+            </tr>
+        </table>
+    </main>
+</body>
+<footer>
+
+    <p1>Created by NigerianPrince - 200M</p1>
+</footer>
+
+
+
+
+
+
+
+@code {
+    private decimal celsius = 0;
+    private decimal kelvin = 273;
+    private decimal fahrenheit = 32;
+
+    private void UpdateFromCelsius(ChangeEventArgs e)
+    {
+        if (decimal.TryParse(e.Value?.ToString(), out decimal newCelsius))
+        {
+            celsius = newCelsius;
+            kelvin = celsius + 273;
+            fahrenheit = (celsius * 9 / 5) + 32;
+        }
+    }
+    private void UpdateFromKelvin(ChangeEventArgs e)
+    {
+        if (decimal.TryParse(e.Value?.ToString(), out decimal newKelvin))
+        {
+            kelvin = newKelvin;
+            celsius = kelvin - 273;
+            fahrenheit = (celsius * 9 / 5) + 32;
+        }
+    }
+    private void UpdateFromFahrenheit(ChangeEventArgs e)
+    {
+        if (decimal.TryParse(e.Value?.ToString(), out decimal newFahrenheit))
+        {
+            fahrenheit = newFahrenheit;
+            celsius = (fahrenheit - 32) * 5 / 9;
+            kelvin = celsius + 273;
+        }
+    }
+}
